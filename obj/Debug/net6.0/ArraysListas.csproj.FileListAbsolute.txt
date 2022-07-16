@@ -1,0 +1,15 @@
+C:\Projetos\BaltaIO\ArraysListas\bin\Debug\net6.0\ArraysListas.exe
+C:\Projetos\BaltaIO\ArraysListas\bin\Debug\net6.0\ArraysListas.deps.json
+C:\Projetos\BaltaIO\ArraysListas\bin\Debug\net6.0\ArraysListas.runtimeconfig.json
+C:\Projetos\BaltaIO\ArraysListas\bin\Debug\net6.0\ArraysListas.dll
+C:\Projetos\BaltaIO\ArraysListas\bin\Debug\net6.0\ArraysListas.pdb
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.csproj.AssemblyReference.cache
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.AssemblyInfoInputs.cache
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.AssemblyInfo.cs
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.csproj.CoreCompileInputs.cache
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.dll
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\refint\ArraysListas.dll
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.pdb
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ArraysListas.genruntimeconfig.cache
+C:\Projetos\BaltaIO\ArraysListas\obj\Debug\net6.0\ref\ArraysListas.dll
